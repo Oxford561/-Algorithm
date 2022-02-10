@@ -11,3 +11,17 @@ C:\Users\wb.liujin01\Desktop\Code\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.cs
 C:\Users\wb.liujin01\Desktop\Code\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
 C:\Users\wb.liujin01\Desktop\Code\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
 C:\Users\wb.liujin01\Desktop\Code\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
+E:\GitProjects\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+E:\GitProjects\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+E:\GitProjects\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+E:\GitProjects\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+E:\GitProjects\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+E:\GitProjects\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.AssemblyReference.cache
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+E:\GitProjects\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache

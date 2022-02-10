@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WtZP6iGWyMi9g07eBBawDycSoU2fRU9ojyZiubQdyLhPyMdiv/JTvfrfr6Jm6Fsi1zxVKj9FfPdOljD8ajdB8w==",
+  "dgSpecHash": "KYQme9P3zCzjwfsdjou9bTyWAkOQlV6u63JvqqB9clyX+qI+IrzYpOcqeVbTtkGNDgJ1YnusvhUlQa6e63GO/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wb.liujin01\\Desktop\\Code\\Algorithm\\Algorithm.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\GitProjects\\Algorithm\\Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wb.liujin01\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\wb.liujin01\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

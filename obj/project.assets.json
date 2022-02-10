@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wb.liujin01\\Desktop\\Code\\Algorithm\\Algorithm.csproj",
+      "projectUniqueName": "E:\\GitProjects\\Algorithm\\Algorithm.csproj",
       "projectName": "Algorithm",
-      "projectPath": "C:\\Users\\wb.liujin01\\Desktop\\Code\\Algorithm\\Algorithm.csproj",
+      "projectPath": "E:\\GitProjects\\Algorithm\\Algorithm.csproj",
       "packagesPath": "C:\\Users\\wb.liujin01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wb.liujin01\\Desktop\\Code\\Algorithm\\obj\\",
+      "outputPath": "E:\\GitProjects\\Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,12 +60,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.22, 3.1.22]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
